@@ -1,2 +1,3 @@
 /functions/node_modules
 .vscode
+/functions/db/service_key.json
